@@ -1,0 +1,12 @@
+,Model Name,Accuracy
+0,Logistic Regression,88.87
+1,Gaussian Naive Bayes Classifier,83.67
+2,KNN Classifier,88.59
+3,SVM,88.20
+4,Decision Tree Classifier,87.73
+5,Decision Tree Classifier-Grid Search,90.04
+6,Bagging Classifier,90.23
+7,Random Forest Classifier,90.29
+8,Ada Boosting Classifier,89.85
+9,Gradient Boosting Classifier,89.98
+10,Gradient Boosting Classifier-Grid Search,90.30
